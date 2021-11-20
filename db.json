@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "link": "items/detail_7.html",
+      "img": "assets/img/item7.jpg",
+      "name": "Laptop Gaming MSI Katana GF66 11UC 676VN",
+      "price_old": "25.990.000đ",
+      "price_current": "24.179.000đ",
+      "heart": "home-product-item__like-icon-fill",
+      "star1": "home-product-item__star--gold",
+      "star2": "home-product-item__star--gold",
+      "star3": "home-product-item__star--gold",
+      "star4": "home-product-item__star--gold",
+      "star5": "home-product-item__star--gold",
+      "sold": "27 đã bán",
+      "brand": "acv",
+      "local": "Ha Noi",
+      "percent": "7%",
+      "label": "Giam"
+    }
+  ]
+}
+  
